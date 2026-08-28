@@ -67,7 +67,6 @@ The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c19
 
 📚纪录科教,#genre#
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-FilmRise Forensic Files,https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
 FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
 FilmRise True Crime,https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
 MagellanTV Wildest,https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
@@ -89,10 +88,8 @@ Vevo '80s,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b
 Vevo '90s,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8
 Vevo 2K,https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8
 Vevo Country,https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8
-Vevo Hip-Hop,https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live_1080.m3u8
 Vevo Latino,https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live_1080.m3u8
 Vevo Pop,https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live_1080.m3u8
-Vevo R&B,https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live_1080.m3u8
 XITE 80s Flashback,https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8
 XITE 90s Throwback,https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8
 XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8
