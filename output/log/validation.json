@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-09-11 14:29:18",
+  "generated_at": "2026-09-12 00:22:51",
   "input_entries": 82,
   "unique_urls": 82,
-  "valid_entries": 82,
-  "valid_channels": 82,
-  "invalid_entries": [],
+  "valid_entries": 81,
+  "valid_channels": 81,
+  "invalid_entries": [
+    {
+      "channel": "Chifeng News",
+      "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
+      "error": "probe timeout"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-2",
@@ -12,7 +18,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
@@ -28,7 +34,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-10",
@@ -36,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-11",
@@ -44,7 +50,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-12",
@@ -52,7 +58,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-15",
@@ -84,7 +90,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "浙江卫视",
@@ -108,7 +114,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "江苏卫视",
@@ -122,8 +128,8 @@
       "channel": "深圳卫视",
       "url": "http://74.91.26.218:82/live/szwshd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
+      "width": 1920,
+      "height": 1080,
       "video_packets": 72
     },
     {
@@ -148,7 +154,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Sky News International",
@@ -156,7 +162,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "BBC News UK",
@@ -180,7 +186,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 147
+      "video_packets": 153
     },
     {
       "channel": "TRT World TR",
@@ -268,7 +274,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 86
+      "video_packets": 90
     },
     {
       "channel": "UFC",
@@ -372,7 +378,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -460,7 +466,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "FilmRise True Crime",
@@ -532,7 +538,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CTV @ Home CA",
@@ -540,7 +546,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gets Real CA",
@@ -548,7 +554,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "CTV Laughs CA",
@@ -564,7 +570,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 85
+      "video_packets": 87
     },
     {
       "channel": "XITE 80s Flashback",
@@ -580,7 +586,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Hits",
@@ -588,7 +594,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "XITE Just Chill",
@@ -596,7 +602,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 71
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -604,7 +610,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE Rock x Metal",
@@ -612,7 +618,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "XITE Spring Vibes",
@@ -620,7 +626,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "Deluxe RAP DE",
@@ -628,7 +634,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "TV BRICS Chinese",
@@ -644,15 +650,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
-    },
-    {
-      "channel": "Chifeng News",
-      "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "France 24 English",
