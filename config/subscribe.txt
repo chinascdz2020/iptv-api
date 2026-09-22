@@ -3,7 +3,7 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-http://issdt.asia:8601/live.m3u
+
 https://tv.112553.xyz/tv
 
 
